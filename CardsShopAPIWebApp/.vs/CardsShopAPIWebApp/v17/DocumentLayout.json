@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\models\\cardsshopapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\models\\cardsshopapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\models\\firms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\models\\firms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|c:\\projects\\isandtplab2\\cardsshopapiwebapp\\cardsshopapiwebapp\\models\\carddecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AF61BC-2FA8-4223-97B2-EB6A53936E4B}|CardsShopAPIWebApp\\CardsShopAPIWebApp.csproj|solutionrelative:cardsshopapiwebapp\\models\\carddecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Program.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:13:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\appsettings.json",
+              "RelativeToolTip": "CardsShopAPIWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T23:07:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardsShopAPIContext.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\CardsShopAPIContext.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Models\\CardsShopAPIContext.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\CardsShopAPIContext.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Models\\CardsShopAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:00:41.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardDecks.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\CardDecks.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Models\\CardDecks.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\CardDecks.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Models\\CardDecks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:50:39.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Models\\Questions.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Questions.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Models\\Questions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:51:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Models\\Reviews.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Reviews.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Models\\Reviews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:51:02.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Firms.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Firms.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Models\\Firms.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Firms.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Models\\Firms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:50:10.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "CardsShopAPIWebApp\\Models\\Orders.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2\\CardsShopAPIWebApp\\CardsShopAPIWebApp\\Models\\Orders.cs",
+              "RelativeToolTip": "CardsShopAPIWebApp\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:49:40.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
